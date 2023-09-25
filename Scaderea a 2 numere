@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a;
+    int b;
+
+    cout<<"Valoarea primului numar"<<endl;
+    cin>>a;
+
+    cout<<"Valoarea celui de-al doilea numar"<<endl;
+    cin>>b;
+
+    cout<<"Diferenta lor"<<endl;
+    cout<<a - b<<endl;
+
+    return 0;
+}
